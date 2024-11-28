@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;400&display=swap');
+
+*{
+  font-family: "Kanit", serif;
+  font-weight: 200;
+  font-style: normal;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.main-color{
+  background-color: #8CB9BD;
+}.second-color{
+  background-color: #FEFBF6;
+}.third-color{
+background-color: #ECB159;
+}.base-color{
+  background-color: #B67352;
+}
