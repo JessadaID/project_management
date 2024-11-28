@@ -22,7 +22,7 @@
     <Route path="/cpe" component={Cpe02_home} />
     <Route path="/cpe_form" component={Cpe02_form} />
     <Route path="/cpe_wait" component={Cpe02_wait} />
-    <Route path="/cpe_wait/*" component={Cpe02_info} />
-    <Route path="/cpe_edit/*" component={Cpe02_edit} />
+    <Route path="/cpe_wait/:id" component={Cpe02_info} />
+    <Route path="/cpe_edit/:id" component={Cpe02_edit} />
   </Router>
 </main>
