@@ -14,6 +14,6 @@
       <div class="hover:bg-red-200 p-5 border-gray-500 border-2 bg-white">
         <b>ข้อมูลใบเสนอโปรเจคทั้งหมด</b>
       </div>
-   
+   </Link>
   </div>
 </main>
